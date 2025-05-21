@@ -154,7 +154,7 @@ export const questionSets = [
         questions: [
           '91. Alle må si hvem de hadde drept i rommet og hvordan?🫢',
           '92. Hvem kommer mest sannsynlig til å drepe seg selv innen de 5 neste årene?😈',
-          '93. Hvem må bytte profilbilde til Fredrik Solvang på insta for resten av kvelden? Send bilde til psykolomeme_warszawa_ på Instagram🕴🏻',
+          '93. Hvem må bytte profilbilde til Fredrik Solvang på insta for resten av kvelden? Send bilde til psykolomeme_warszawa_ på Instagram DM🕴🏻',
           '94. hvem kunne du ønske du aldri hadde møtt?👻',
           '95. hvem må legge ulykken bak seg? Det er over 10 år siden, det var ikke din feil👨‍👩‍👧‍👦',
           '96. Hvem hadde takket ja til et ekstra kromosom i bytte mot å få 1 million Instragram følgere?📸',
@@ -164,6 +164,12 @@ export const questionSets = [
           '100. hvem er det du oppritiktig uironisk hater? (Ikke kødd (helt serr))💀',
         ],
       },
+    ]
+  },
+   {
+    id: 'Warszawa edition',
+    name: '100 questions, warszawa edition - coming soon',
+    themes: [
     ]
   },
 ];

@@ -31,12 +31,12 @@ export default function AppNavigator() {
                 <Stack.Screen
                     name="Start"
                     component={StartScreen}
-                    options={{ title: 'Velkommen' }}
+                    options={{ title: 'Welcome' }}
                 />
                 <Stack.Screen
                     name="Selection"
                     component={SelectionScreen}
-                    options={{ title: 'Velg Sett' }}
+                    options={{ title: 'Choose set' }}
                 />
                 <Stack.Screen
                     name="Game"
@@ -49,12 +49,12 @@ export default function AppNavigator() {
                 <Stack.Screen
                     name="Info"
                     component={InfoScreen}
-                    options={{ title: 'Informasjon' }}
+                    options={{ title: 'Information' }}
                 />
                 <Stack.Screen
                     name="Theme"
                     component={ThemeScreen}
-                    options={{ title: 'Velg Tema' }}
+                    options={{ title: 'Choose your theme' }}
                 />
             </Stack.Navigator>
         </NavigationContainer>

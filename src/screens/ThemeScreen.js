@@ -10,7 +10,7 @@ export default function ThemeScreen({ route, navigation }) {
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Velg Tema</Text>
+      <Text style={styles.title}>Choose your theme</Text>
       {selectedSet.themes.map((theme, idx) => (
         <View key={theme.name} style={styles.buttonContainer}>
           <Button

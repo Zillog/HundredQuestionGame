@@ -5,7 +5,7 @@ import { View, Text, Button, StyleSheet } from 'react-native';
 export default function StartScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>100 Spørsmål</Text>
+      <Text style={styles.title}>100 questions</Text>
       <View style={styles.buttonContainer}>
         <Button
           title="Start Spill"
@@ -14,7 +14,7 @@ export default function StartScreen({ navigation }) {
       </View>
       <View style={styles.buttonContainer}>
         <Button
-          title="Informasjon"
+          title="Information"
           onPress={() => navigation.navigate('Info')}
           color="#841584" // Optional: different color
         />

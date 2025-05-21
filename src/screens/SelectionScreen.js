@@ -10,7 +10,7 @@ export default function SelectionScreen({ navigation }) {
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Velg Spørsmålsett</Text>
+      <Text style={styles.title}>Choose question set</Text>
       {questionSets.map((set) => (
         <View key={set.id} style={styles.buttonContainer}>
           <Button

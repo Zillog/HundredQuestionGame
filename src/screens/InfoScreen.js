@@ -5,18 +5,21 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function InfoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Informasjon</Text>
+      <Text style={styles.title}>Information</Text>
       <Text style={styles.text}>
-        Dette er et drikkespill med 100 spørsmål fordelt på 10 temaer.
+        This is a party game consisting of 100 questions across 10 different themes.
       </Text>
       <Text style={styles.text}>
-        Sveip til venstre for neste spørsmål, høyre for forrige.
+        Swipe left for the next question and right for previous one.
       </Text>
       <Text style={styles.text}>
-        Trykk på skjermen for å starte et nytt tema etter drikkepausen.
+        Touch the screen after completing a category, it will take you to the next one.
       </Text>
       <Text style={styles.text}>
-        Spørsmålene er av humoristisk natur, og var laget i utgangspunktet for internt bruk!
+        The questions are not to be taken serious, as they are of humoristic nature. The questions were created by the meme creators of psykolomeme_warszawa_ 
+      </Text>
+      <Text style={styles.text}>
+        This party game is completely free to use, but.
       </Text>
     </View>
   );
