@@ -8,7 +8,7 @@ export default function StartScreen({ navigation }) {
       <Text style={styles.title}>100 questions</Text>
       <View style={styles.buttonContainer}>
         <Button
-          title="Start Spill"
+          title="Start"
           onPress={() => navigation.navigate('Selection')}
         />
       </View>
