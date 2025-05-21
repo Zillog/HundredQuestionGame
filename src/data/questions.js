@@ -113,6 +113,7 @@ export const questionSets = [
           '67. Hvem er en kvinne du faktisk respekterer på ekte?🙋‍♀️',
           '68. Hvem er snill og grei?🥰',
           '69. Hvem har den mest slafsete fitta?🫣',
+          '70. Hvilken kvinne scares the bros?🤫'
         ],
       },
       // Theme 8: Utelivet
@@ -127,6 +128,8 @@ export const questionSets = [
           '76. Nevn en person du er glad i og si hvorfor, også må du drikke 5 (fem) slurker og gi dem en klem og nuss på kinnet😘',
           '77. Hvem hadde tatt i mot et objekt når *insert name* kaster den til de? 🤾‍♀️', // Note: Placeholder remains
           '78. Hvem har en far som er oppriktig skuffet over dem?🧑‍🧒',
+          '79. Hvem er mest desperat etter å skjule sin åpenbare lave sosioøkonomisk status?🤒',
+          '80. Hvem blir en bedre person i fylla?😍'
         ],
       },
       // Theme 9: Skolen
