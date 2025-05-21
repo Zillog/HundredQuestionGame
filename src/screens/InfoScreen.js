@@ -19,7 +19,7 @@ export default function InfoScreen() {
         The questions are not to be taken serious, as they are of humoristic nature. The questions were created by the meme creators of psykolomeme_warszawa_ 
       </Text>
       <Text style={styles.text}>
-        This party game is completely free to use, but.
+        This party game is completely free to use, but please read the license in the github link if you want to remix this game.
       </Text>
     </View>
   );
